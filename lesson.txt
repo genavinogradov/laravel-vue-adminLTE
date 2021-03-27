@@ -1,0 +1,4 @@
+cd domains
+cd blog-laravel-vue
+
+composer create-project --prefer-dist laravel/laravel:^7.0
